@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 📫 How to reach me **dhanudhamdhere05@gmail.com**
+- 📫 How to reach me **dhanshridhamdhere1999@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
